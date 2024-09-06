@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Nunito&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Josefin Sans', sans-serif;
+font-family: 'Nunito', sans-serif;
+}
+
+.homePage {
+  padding-top: 40px;
+}
+
+.author{
+  margin-left: 10px;
+}
+
+.ftr-style{
+  margin-top: 20px;
+}
